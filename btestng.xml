@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="action.com.NewTest3"/>     //packagename.classname             // testng.xml is a common file for all classes
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
